@@ -24,6 +24,9 @@ CATEGORY_COLORS = {
     "500碗 3 Bowls": "#8E44AD",
     "500碗 2 Bowls": "#E67E22",
     "500碗 1 Bowl": "#27AE60",
+    "Asia's 50 Best Bars": "#1ABC9C",
+    "World's 100 Best Coffee": "#795548",
+    "Notable Coffee": "#A0522D",
 }
 
 CATEGORY_ICONS = {
@@ -35,6 +38,9 @@ CATEGORY_ICONS = {
     "500碗 3 Bowls": "fire",
     "500碗 2 Bowls": "fire",
     "500碗 1 Bowl": "fire",
+    "Asia's 50 Best Bars": "glass",
+    "World's 100 Best Coffee": "leaf",
+    "Notable Coffee": "leaf",
 }
 
 CATEGORY_EMOJIS = {
@@ -46,11 +52,16 @@ CATEGORY_EMOJIS = {
     "500碗 3 Bowls": "🍜🍜🍜",
     "500碗 2 Bowls": "🍜🍜",
     "500碗 1 Bowl": "🍜",
+    "Asia's 50 Best Bars": "🍸",
+    "World's 100 Best Coffee": "☕",
+    "Notable Coffee": "☕",
 }
 
 SOURCE_LABELS = {
     "michelin": "Michelin Guide 米其林",
     "500bowl": "500碗 Award",
+    "bar": "Asia's 50 Best Bars",
+    "coffee": "Best Coffee ☕",
 }
 
 CITY_ORDER = [
@@ -136,7 +147,9 @@ def main():
     st.title("🗺️ Taiwan Gourmet Map 台灣美食地圖")
     st.caption(
         "Data sources: [Michelin Guide Taiwan 2025](https://guide.michelin.com/tw/en) · "
-        "[500碗 2025](https://500times.udn.com/wtimes/story/123497/8874123)"
+        "[500碗 2025](https://500times.udn.com/wtimes/story/123497/8874123) · "
+        "[Asia's 50 Best Bars 2025](https://www.theworlds50best.com/bars/asia/list/1-50) · "
+        "[World's 100 Best Coffee Shops 2026](https://www.timeout.com/asia/news/worlds-100-best-coffee-shops-2026-14-asian-cafes-make-the-global-list-021926)"
     )
 
     df = load_data()
@@ -200,14 +213,18 @@ def main():
     stars1 = len(filtered[filtered["category"] == "Michelin 1 Star"])
     bib = len(filtered[filtered["category"] == "Bib Gourmand"])
     bowls = len(filtered[filtered["source"] == "500bowl"])
+    bars_count = len(filtered[filtered["source"] == "bar"])
+    coffee_count = len(filtered[filtered["source"] == "coffee"])
 
-    cols = st.columns(6)
+    cols = st.columns(8)
     cols[0].metric("Total", total)
     cols[1].metric("⭐⭐⭐", stars3)
     cols[2].metric("⭐⭐", stars2)
     cols[3].metric("⭐", stars1)
     cols[4].metric("🍽️ Bib", bib)
     cols[5].metric("🍜 500碗", bowls)
+    cols[6].metric("🍸 Bars", bars_count)
+    cols[7].metric("☕ Coffee", coffee_count)
 
     if filtered.empty:
         st.warning("No restaurants match the current filters.")
