@@ -1,7 +1,7 @@
 [
   {
     "name": "JUNTO",
-    "name_zh": "",
+    "name_zh": "JUNTO",
     "source": "michelin",
     "award": "Selected Restaurants",
     "category": "Selected",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Sushi Kajin",
-    "name_zh": "",
+    "name_zh": "鮨嘉仁",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Pale Jade Pavilion",
-    "name_zh": "",
+    "name_zh": "白玉樓",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Motoichi",
-    "name_zh": "",
+    "name_zh": "元一",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Clavius",
-    "name_zh": "",
+    "name_zh": "雲川水月",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Lien Wu Chiao Lamb Soup",
-    "name_zh": "",
+    "name_zh": "蓮霧腳羊肉湯",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Chuan Ya",
-    "name_zh": "",
+    "name_zh": "川雅",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -341,7 +341,7 @@
   },
   {
     "name": "Kung Fu Shanghai Fish Ball",
-    "name_zh": "",
+    "name_zh": "功夫上海手工魚丸",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -561,7 +561,7 @@
   },
   {
     "name": "Yung Yen",
-    "name_zh": "",
+    "name_zh": "永筵小館",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -581,7 +581,7 @@
   },
   {
     "name": "Su Lai Chuan",
-    "name_zh": "",
+    "name_zh": "蘇來傳",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -621,7 +621,7 @@
   },
   {
     "name": "Tableau by Craig Yang",
-    "name_zh": "",
+    "name_zh": "Tableau by Craig Yang",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -681,7 +681,7 @@
   },
   {
     "name": "PEI FULL",
-    "name_zh": "",
+    "name_zh": "培福",
     "source": "michelin",
     "award": "Selected Restaurants",
     "category": "Selected",
@@ -701,7 +701,7 @@
   },
   {
     "name": "Le Palais",
-    "name_zh": "",
+    "name_zh": "頤宮",
     "source": "michelin",
     "award": "3 Stars",
     "category": "Michelin 3 Stars",
@@ -741,7 +741,7 @@
   },
   {
     "name": "Taïrroir",
-    "name_zh": "",
+    "name_zh": "態芮",
     "source": "michelin",
     "award": "3 Stars",
     "category": "Michelin 3 Stars",
@@ -761,7 +761,7 @@
   },
   {
     "name": "Rong Ju",
-    "name_zh": "",
+    "name_zh": "榕居",
     "source": "michelin",
     "award": "Selected Restaurants",
     "category": "Selected",
@@ -781,7 +781,7 @@
   },
   {
     "name": "Jhen Pin",
-    "name_zh": "",
+    "name_zh": "珍品餐飲坊",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -821,7 +821,7 @@
   },
   {
     "name": "Eika",
-    "name_zh": "",
+    "name_zh": "盈科",
     "source": "michelin",
     "award": "2 Stars",
     "category": "Michelin 2 Stars",
@@ -861,7 +861,7 @@
   },
   {
     "name": "Yu Kapo",
-    "name_zh": "",
+    "name_zh": "彧割烹",
     "source": "michelin",
     "award": "2 Stars",
     "category": "Michelin 2 Stars",
@@ -901,7 +901,7 @@
   },
   {
     "name": "Mudan",
-    "name_zh": "",
+    "name_zh": "牡丹",
     "source": "michelin",
     "award": "2 Stars",
     "category": "Michelin 2 Stars",
@@ -921,7 +921,7 @@
   },
   {
     "name": "L'Atelier de Joël Robuchon",
-    "name_zh": "",
+    "name_zh": "侯布雄",
     "source": "michelin",
     "award": "2 Stars",
     "category": "Michelin 2 Stars",
@@ -941,7 +941,7 @@
   },
   {
     "name": "Molino de Urdániz",
-    "name_zh": "",
+    "name_zh": "渥達尼斯磨坊",
     "source": "michelin",
     "award": "2 Stars",
     "category": "Michelin 2 Stars",
@@ -961,7 +961,7 @@
   },
   {
     "name": "Ya Ge",
-    "name_zh": "",
+    "name_zh": "雅閣",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "The Guest House",
-    "name_zh": "",
+    "name_zh": "請客樓",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "YUENJI",
-    "name_zh": "",
+    "name_zh": "元紀",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "Sur-",
-    "name_zh": "",
+    "name_zh": "澀 SUR",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1121,7 +1121,7 @@
   },
   {
     "name": "Impromptu by Paul Lee",
-    "name_zh": "",
+    "name_zh": "即興料理",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Mountain and Sea House",
-    "name_zh": "",
+    "name_zh": "山海樓",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Oretachi No Nikuya",
-    "name_zh": "",
+    "name_zh": "俺達の肉屋",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1181,7 +1181,7 @@
   },
   {
     "name": "Golden Formosa",
-    "name_zh": "",
+    "name_zh": "南方莊園花園廳",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1261,7 +1261,7 @@
   },
   {
     "name": "Sho",
-    "name_zh": "",
+    "name_zh": "承 SHO",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Mipon",
-    "name_zh": "",
+    "name_zh": "米庖",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "GEN",
-    "name_zh": "",
+    "name_zh": "雋 GEN",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1341,7 +1341,7 @@
   },
   {
     "name": "Fleur de Sel",
-    "name_zh": "",
+    "name_zh": "鹽之華",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Sushi Akira",
-    "name_zh": "",
+    "name_zh": "鮨章",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Fujin Tree Taiwanese Cuisine & Champagne (Songshan)",
-    "name_zh": "",
+    "name_zh": "富錦樹台菜香檳",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1401,7 +1401,7 @@
   },
   {
     "name": "Sushiyoshi",
-    "name_zh": "",
+    "name_zh": "壽司吉",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1421,7 +1421,7 @@
   },
   {
     "name": "Kitcho",
-    "name_zh": "",
+    "name_zh": "吉兆割烹壽司",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "the FRONT HOUSE",
-    "name_zh": "",
+    "name_zh": "方蒔",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Ban Bo",
-    "name_zh": "",
+    "name_zh": "板步",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1481,7 +1481,7 @@
   },
   {
     "name": "Hosu",
-    "name_zh": "",
+    "name_zh": "好嶼",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Paris 1930 de Hideki Takayama",
-    "name_zh": "",
+    "name_zh": "巴黎1930",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1521,7 +1521,7 @@
   },
   {
     "name": "Tien Hsiang Lo",
-    "name_zh": "",
+    "name_zh": "天香樓",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1581,7 +1581,7 @@
   },
   {
     "name": "HAILI",
-    "name_zh": "",
+    "name_zh": "海荔",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "Ken Anhe",
-    "name_zh": "",
+    "name_zh": "謙安和",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1641,7 +1641,7 @@
   },
   {
     "name": "Sushi Ryu",
-    "name_zh": "",
+    "name_zh": "鮨龍",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1661,7 +1661,7 @@
   },
   {
     "name": "Ming Fu",
-    "name_zh": "",
+    "name_zh": "明福台菜海產",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1721,7 +1721,7 @@
   },
   {
     "name": "Shin Yeh Taiwanese Signature",
-    "name_zh": "",
+    "name_zh": "欣葉鐘菜",
     "source": "michelin",
     "award": "1 Star",
     "category": "Michelin 1 Star",
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Nung Wei Hsiao Chu",
-    "name_zh": "",
+    "name_zh": "弄味小廚",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "Lai Kang Shan",
-    "name_zh": "",
+    "name_zh": "賴岡山羊肉",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1781,7 +1781,7 @@
   },
   {
     "name": "Hung Chin",
-    "name_zh": "",
+    "name_zh": "鴻金食堂",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "Hsiu Ming",
-    "name_zh": "",
+    "name_zh": "秀明豬心冬粉",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1821,7 +1821,7 @@
   },
   {
     "name": "Wang's Broth",
-    "name_zh": "",
+    "name_zh": "小王煮瓜",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1841,7 +1841,7 @@
   },
   {
     "name": "Fu Din Wang (Central)",
-    "name_zh": "",
+    "name_zh": "富鼎旺",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1861,7 +1861,7 @@
   },
   {
     "name": "Yonghe Chia Hsiang Soy Milk",
-    "name_zh": "",
+    "name_zh": "永和佳香豆漿",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1881,7 +1881,7 @@
   },
   {
     "name": "SÒNG JHAO",
-    "name_zh": "",
+    "name_zh": "宋朝",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1901,7 +1901,7 @@
   },
   {
     "name": "Dian Xiao Er (Datong North Road)",
-    "name_zh": "",
+    "name_zh": "店小二",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1921,7 +1921,7 @@
   },
   {
     "name": "San Tung",
-    "name_zh": "",
+    "name_zh": "山東小館",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1941,7 +1941,7 @@
   },
   {
     "name": "Chin Chih Yuan (Central)",
-    "name_zh": "",
+    "name_zh": "范記金之園",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1961,7 +1961,7 @@
   },
   {
     "name": "Mai Mien Yen Tsai",
-    "name_zh": "",
+    "name_zh": "賣麵炎仔",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "Serenity (Zhongzheng)",
-    "name_zh": "",
+    "name_zh": "祥和蔬食",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2001,7 +2001,7 @@
   },
   {
     "name": "Saffron Fine Indian Cuisine",
-    "name_zh": "",
+    "name_zh": "番紅花印度美饌",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2021,7 +2021,7 @@
   },
   {
     "name": "Pàng",
-    "name_zh": "",
+    "name_zh": "Pàng",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2041,7 +2041,7 @@
   },
   {
     "name": "Guang Xing Pork Knuckle",
-    "name_zh": "",
+    "name_zh": "光興腿庫",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2061,7 +2061,7 @@
   },
   {
     "name": "San Chieh Mei Nung Chia Le",
-    "name_zh": "",
+    "name_zh": "三姐妹農家樂",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2081,7 +2081,7 @@
   },
   {
     "name": "Shou Wu EAT",
-    "name_zh": "",
+    "name_zh": "首烏廚EAT",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2101,7 +2101,7 @@
   },
   {
     "name": "Cheng Tsung Duck Rice",
-    "name_zh": "",
+    "name_zh": "正宗鴨肉飯",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2141,7 +2141,7 @@
   },
   {
     "name": "Dayong Street No Name Congee",
-    "name_zh": "",
+    "name_zh": "大勇街無名鹹粥",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2161,7 +2161,7 @@
   },
   {
     "name": "Niou Jia Juang",
-    "name_zh": "",
+    "name_zh": "牛稼莊",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2181,7 +2181,7 @@
   },
   {
     "name": "Küisine (West)",
-    "name_zh": "",
+    "name_zh": "繡球",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2201,7 +2201,7 @@
   },
   {
     "name": "Chung Chia Sheng Jian Bao",
-    "name_zh": "",
+    "name_zh": "鍾家原上海生煎包",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2221,7 +2221,7 @@
   },
   {
     "name": "Da-Qiao-Tou Tube Rice Pudding (Yanping North Road)",
-    "name_zh": "",
+    "name_zh": "大橋頭老牌筒仔米糕",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2241,7 +2241,7 @@
   },
   {
     "name": "Peng Cheng Tang",
-    "name_zh": "",
+    "name_zh": "彭城堂",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2261,7 +2261,7 @@
   },
   {
     "name": "Lao Shan Dong Homemade Noodles",
-    "name_zh": "",
+    "name_zh": "老山東牛肉家常麵店",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2281,7 +2281,7 @@
   },
   {
     "name": "Noon Turnip Cake",
-    "name_zh": "",
+    "name_zh": "晌午粄食",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2301,7 +2301,7 @@
   },
   {
     "name": "GARDEN h",
-    "name_zh": "",
+    "name_zh": "GARDEN h",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2321,7 +2321,7 @@
   },
   {
     "name": "Ang Gu",
-    "name_zh": "",
+    "name_zh": "ㄤ咕麵",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2341,7 +2341,7 @@
   },
   {
     "name": "Soft Power",
-    "name_zh": "",
+    "name_zh": "軟食力",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2361,7 +2361,7 @@
   },
   {
     "name": "Mai Yen Shun",
-    "name_zh": "",
+    "name_zh": "賣塩順",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "Lou's (Nantun)",
-    "name_zh": "",
+    "name_zh": "羅家古早味",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2441,7 +2441,7 @@
   },
   {
     "name": "Taichung Meatball",
-    "name_zh": "",
+    "name_zh": "台中肉員",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2481,7 +2481,7 @@
   },
   {
     "name": "Liang Chia Pig Knuckle",
-    "name_zh": "",
+    "name_zh": "良佳豬腳",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2541,7 +2541,7 @@
   },
   {
     "name": "Zhu Xin Ju",
-    "name_zh": "",
+    "name_zh": "筑馨居",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -2661,7 +2661,7 @@
   },
   {
     "name": "Din Tai Fung (Xinyi Road)",
-    "name_zh": "",
+    "name_zh": "鼎泰豐",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3041,7 +3041,7 @@
   },
   {
     "name": "Superman",
-    "name_zh": "",
+    "name_zh": "超人鱸魚",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3061,7 +3061,7 @@
   },
   {
     "name": "Tang Tsao Yuan",
-    "name_zh": "",
+    "name_zh": "唐草園",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3101,7 +3101,7 @@
   },
   {
     "name": "Li Xiao Lou",
-    "name_zh": "",
+    "name_zh": "裡小樓",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3241,7 +3241,7 @@
   },
   {
     "name": "Mao Yuan",
-    "name_zh": "",
+    "name_zh": "茂園",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3301,7 +3301,7 @@
   },
   {
     "name": "Shang Hao",
-    "name_zh": "",
+    "name_zh": "上好雞肉",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3641,7 +3641,7 @@
   },
   {
     "name": "Good Friend Cold Noodles",
-    "name_zh": "",
+    "name_zh": "好朋友涼麵",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3701,7 +3701,7 @@
   },
   {
     "name": "Jen Ho Yuan",
-    "name_zh": "",
+    "name_zh": "人和園",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3821,7 +3821,7 @@
   },
   {
     "name": "Hou Chi Duck Rice",
-    "name_zh": "",
+    "name_zh": "侯記鴨肉飯",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -3921,7 +3921,7 @@
   },
   {
     "name": "Yi Wei Pin",
-    "name_zh": "",
+    "name_zh": "一味品",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -4001,7 +4001,7 @@
   },
   {
     "name": "Yuan Wei Duck Noodle",
-    "name_zh": "",
+    "name_zh": "原味鴨肉麵",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -4021,7 +4021,7 @@
   },
   {
     "name": "Shan Guo Tang",
-    "name_zh": "",
+    "name_zh": "善菓堂",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -4041,7 +4041,7 @@
   },
   {
     "name": "Chun Lan Gua Bao",
-    "name_zh": "",
+    "name_zh": "春蘭割包",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -4161,7 +4161,7 @@
   },
   {
     "name": "HUGH dessert dining",
-    "name_zh": "",
+    "name_zh": "HUGH Dessert dining",
     "source": "michelin",
     "award": "Bib Gourmand",
     "category": "Bib Gourmand",
@@ -10321,7 +10321,7 @@
   },
   {
     "name": "The Public House",
-    "name_zh": "",
+    "name_zh": "眾酒館",
     "source": "bar",
     "award": "Asia's 50 Best Bars #40",
     "category": "Asia's 50 Best Bars",
@@ -10341,7 +10341,7 @@
   },
   {
     "name": "To Infinity & Beyond",
-    "name_zh": "",
+    "name_zh": "無限光年",
     "source": "bar",
     "award": "Asia's 50 Best Bars #41",
     "category": "Asia's 50 Best Bars",
@@ -10361,7 +10361,7 @@
   },
   {
     "name": "Moonrock",
-    "name_zh": "",
+    "name_zh": "月岩",
     "source": "bar",
     "award": "Asia's 50 Best Bars #42",
     "category": "Asia's 50 Best Bars",
@@ -10401,7 +10401,7 @@
   },
   {
     "name": "The Han-Jia",
-    "name_zh": "",
+    "name_zh": "漢家",
     "source": "bar",
     "award": "Asia's 50 Best Bars #59",
     "category": "Asia's 50 Best Bars",
@@ -10421,7 +10421,7 @@
   },
   {
     "name": "Wu (Nothingness)",
-    "name_zh": "",
+    "name_zh": "無",
     "source": "bar",
     "award": "Asia's 50 Best Bars #66",
     "category": "Asia's 50 Best Bars",
@@ -10501,7 +10501,7 @@
   },
   {
     "name": "Coffee Sind",
-    "name_zh": "Coffee Sind",
+    "name_zh": "",
     "source": "coffee",
     "award": "#36 World's 100 Best Coffee Shops 2026",
     "category": "World's 100 Best Coffee",
@@ -10521,7 +10521,7 @@
   },
   {
     "name": "KEEP Coffee Roastery",
-    "name_zh": "KEEP Coffee Roastery",
+    "name_zh": "",
     "source": "coffee",
     "award": "#46 World's 100 Best Coffee Shops 2026",
     "category": "World's 100 Best Coffee",
@@ -10541,7 +10541,7 @@
   },
   {
     "name": "Tomorrow Coffee Roasters",
-    "name_zh": "Tomorrow Coffee Roasters",
+    "name_zh": "",
     "source": "coffee",
     "award": "#57 World's 100 Best Coffee Shops 2026",
     "category": "World's 100 Best Coffee",
@@ -10561,7 +10561,7 @@
   },
   {
     "name": "Coffee Stopover Black",
-    "name_zh": "Coffee Stopover Black",
+    "name_zh": "",
     "source": "coffee",
     "award": "#78 World's 100 Best Coffee Shops 2026",
     "category": "World's 100 Best Coffee",
@@ -10621,7 +10621,7 @@
   },
   {
     "name": "VWI by CHADWANG",
-    "name_zh": "VWI by CHADWANG",
+    "name_zh": "",
     "source": "coffee",
     "award": "Notable",
     "category": "Notable Coffee",

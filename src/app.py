@@ -82,6 +82,8 @@ def load_data() -> pd.DataFrame:
 def build_popup(row: pd.Series) -> str:
     emoji = CATEGORY_EMOJIS.get(row["category"], "")
     name = row["name"]
+    name_zh = row.get("name_zh") or ""
+    zh_part = f" <span style='color:#888;font-size:13px'>({name_zh})</span>" if name_zh and name_zh != name else ""
     address = row.get("address", "")
     cuisine = row.get("cuisine", "")
     price = row.get("price", "")
@@ -99,8 +101,9 @@ def build_popup(row: pd.Series) -> str:
 
     return f"""
     <div style="font-family:sans-serif;max-width:300px">
-      <h4 style="margin:0 0 4px">{emoji} {name} {green}</h4>
-      <p style="margin:2px 0;color:#555;font-size:12px">{row['category']}</p>
+      <h4 style="margin:0 0 2px">{emoji} {name} {green}</h4>
+      {f'<p style="margin:0 0 4px;font-size:13px;color:#555">{name_zh}</p>' if name_zh and name_zh != name else ''}
+      <p style="margin:2px 0;color:#777;font-size:12px">{row['category']}</p>
       <p style="margin:2px 0;font-size:12px">🍽 {cuisine} &nbsp; {price}</p>
       <p style="margin:2px 0;font-size:12px">📍 {address}</p>
       {'<hr style="margin:6px 0">' if desc else ''}
@@ -131,10 +134,12 @@ def build_map(df: pd.DataFrame) -> folium.Map:
         icon_name = CATEGORY_ICONS.get(row["category"], "info-sign")
         popup_html = build_popup(row)
 
+        name_zh = row.get("name_zh") or ""
+        zh_tip = f" {name_zh}" if name_zh and name_zh != row["name"] else ""
         marker = folium.Marker(
             location=[row["lat"], row["lon"]],
             popup=folium.Popup(popup_html, max_width=320),
-            tooltip=f"{CATEGORY_EMOJIS.get(row['category'], '')} {row['name']}",
+            tooltip=f"{CATEGORY_EMOJIS.get(row['category'], '')} {row['name']}{zh_tip}",
             icon=folium.Icon(color="white", icon_color=color, icon=icon_name, prefix="glyphicon"),
         )
         feature_groups[row["category"]].add_child(marker)
@@ -237,11 +242,12 @@ def main():
 
     # ── Table ────────────────────────────────────────────────────────────
     with st.expander(f"📋 Restaurant List ({total})", expanded=False):
-        display_cols = ["name", "category", "cuisine", "city", "address", "price", "michelin_url", "website"]
+        display_cols = ["name", "name_zh", "category", "cuisine", "city", "address", "price", "michelin_url", "website"]
         display_cols = [c for c in display_cols if c in filtered.columns]
         st.dataframe(
             filtered[display_cols].rename(columns={
                 "name": "Name",
+                "name_zh": "中文名",
                 "category": "Category",
                 "cuisine": "Cuisine",
                 "city": "City",
